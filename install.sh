@@ -60,11 +60,11 @@ restoreBackUp(){
     yarn build:production
     sudo php artisan optimize:clear
 }
-echo "ZassXdOfficial"
+echo "VynzzTdr Official"
 echo "AUTO INSTALL THEME"
 echo ""
-echo "Wa: +63 831-2130-6468"
-echo "Nama: VynzzOfficial"
+echo "Wa: +62 831-2130-6468"
+echo "Nama: VynzzTdr"
 echo ""
 echo "[1] Install theme"
 echo "[2] Restore backup"
